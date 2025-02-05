@@ -1,0 +1,2 @@
+{"username": "user1", "email": "user1@gmail.com", "password": "92836781dea1c8b0e875c443dfd3275c091e00fada72030a90e31e75e1ba15eb", "salt": "085f1818c3e6c8445df1f196e8fcc9c3"}
+{"username": "user2", "email": "user2@gmail.com", "password": "482fb63103ea902a64534d9f9b1e974c770305fdbde086b8e6cb5e95af059661", "salt": "6625b23e8a8c6a687089f486a883f575"}
