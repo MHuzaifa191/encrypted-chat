@@ -1,7 +1,7 @@
 # Secure Chat System
 
 ## Overview
-This is a Python-based secure chat application that implements end-to-end encryption using Diffie-Hellman key exchange and AES encryption. The system provides secure user registration, login, and real-time messaging.
+This is a CLI-based secure chat application that implements end-to-end encryption in python using Diffie-Hellman key exchange and AES encryption. The system provides secure user registration, login, and real-time messaging.
 
 ## Features
 - Secure user registration and authentication
